@@ -61,9 +61,8 @@ time while reading.
 
 ## Installation & Execution Guide
 
-Clone the repository :
-```
-git clone https://github.com/deyRupak/oculus.git
+Clone the repository 
+
 ```
 Install the dependencies : 
 ```
